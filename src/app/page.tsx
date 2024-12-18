@@ -3,7 +3,9 @@ import React from "react";
 const page = () => {
   return (
     <>
-      <h1>success</h1>
+      <h1>
+        hello world <span style={{ color: "red" }}>Syed Muqtadeer</span>
+      </h1>
     </>
   );
 };
