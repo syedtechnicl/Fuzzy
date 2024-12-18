@@ -4,7 +4,11 @@ const page = () => {
   return (
     <>
       <h1>
-        hello world <span style={{ color: "red" }}>Syed Muqtadeer</span>
+        hello world{" "}
+        <span style={{ color: "red" }}>
+          Syed Muqta
+          <span style={{ color: "blue" }}>deer</span>{" "}
+        </span>
       </h1>
     </>
   );
