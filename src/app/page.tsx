@@ -1,4 +1,5 @@
 import React from "react";
+import AllComponents from "./pages/AllComponents";
 
 const page = () => {
   return (
@@ -11,6 +12,10 @@ const page = () => {
         </span>
         s/o syed jabbar
       </h1>
+      <br />
+      <hr />
+      <br />
+      <AllComponents />
     </>
   );
 };
