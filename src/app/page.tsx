@@ -9,6 +9,7 @@ const page = () => {
           Syed Muqta
           <span style={{ color: "blue" }}>deer</span>{" "}
         </span>
+        s/o syed jabbar
       </h1>
     </>
   );
